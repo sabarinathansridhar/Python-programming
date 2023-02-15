@@ -1,0 +1,3 @@
+names =['banana', 'carrot' ,'radish','apple', 'jack' ]
+names.sort()
+print(names)
